@@ -1,0 +1,8 @@
+compile
+sbt
+compile
+run
+playUpdateSecret
+heroku create
+heroku
+git init
